@@ -1,0 +1,6 @@
+c=input("Escribe tu nombre: ")
+b=input("Escribe el nombre de tus grupos musicales favoritos: ")
+a=input("Escribe tus colores favorito: ")
+x=input("Escribe tus kdramas favoritos: ")
+v=input("Escribe tus animales favoritos: ")
+print("segun tus grupos musicales favoritos eres kpoper",b,"segun tus kdramas favoritos te gusta la acción",x,"hola",c,"mi animal fovorito es",v,"mis colores favoritos son",a)
